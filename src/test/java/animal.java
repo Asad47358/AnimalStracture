@@ -5,7 +5,9 @@ public class animal {
 
         hasib hasib = new hasib();
         hasib.name="ahmadzad";
-        
+
+        zam z = new zam();
+        z.name="zamclas";
     }
    
 }
